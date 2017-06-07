@@ -1,0 +1,3 @@
+Author: Mingda Tang
+
+Project: NASA World Wind
