@@ -1,9 +1,0 @@
-**Author:** Endia I
-**Project:** NASA World Wind
-
-##Link to World Wind website: 
-https://worldwind.arc.nasa.gov/ 
-
-————————
-
-Endia Irizarry 
